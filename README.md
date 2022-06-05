@@ -23,11 +23,14 @@
  
 <!-- ABOUT THE PROJECT -->
 ##  About The Project
+- NGO's estimate that between 12,000 and 50,000 women and children are trafficked into the country annually from neighbouring nations as a part of the sex trade.
+- Millions are trapped in a lucrative economy of forced labour, domestic slavery, and sex work. 
+- Despite this, it rarely makes the news, and there is little public indignation or political resolve to put a stop to it.
 - The thought of a family member, a friend or someone else you care about going missing can be terrifying. This project aims to help find your loved ones using Face Recognition Technology. If someone you know is missing, then,
-- Register the missing person with us.
-- Once the background check is done and the missing person is verified, we generate a unique Face ID for the missing person using Azure's Face API.
-- When volunteers report a suspected missing person, we verify and generate a Face ID the same way. We then use Azure's Find Similar API to identify a potential match with our database of missing person Face IDs.
-- If a match is found we will contact you.
+  - Register the missing person with us.
+  - Once the background check is done and the missing person is verified, we generate a unique Face ID for the missing person using Azure's Face API.
+  - When volunteers report a suspected missing person, we verify and generate a Face ID the same way. We then use Azure's Find Similar API to identify a potential match with our database of missing person Face IDs.
+  - If a match is found we will contact you.
 
 ###  Built With
 To achieve our goal of finding missing people, we make use of the following tools and languages,
