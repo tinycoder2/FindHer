@@ -4,7 +4,7 @@
 *.pyc
 __pycache__
 findher.sqlite3
-# static
+static
 media
 # Environments 
 .env 
