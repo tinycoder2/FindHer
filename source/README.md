@@ -1,3 +1,6 @@
+##  Tech Architecture
+![azure_Tarch-1](https://user-images.githubusercontent.com/72341529/172136926-6f1367aa-b531-4741-ad03-ebc4216cb043.png)
+
 
 <!-- DISCUSSIONS -->
 
