@@ -1,3 +1,22 @@
+<!-- PROJECT LOGO -->
+
+<br />
+
+<div align="center"><a  href="#top"></a>
+
+<img  src="../source/findher/landing/static/landing/img/face2.png"  alt="Logo"  width="80"  height="80">
+<h2 align="center">FindHer</h2>
+
+<h3 align="center">Solution for Microsoft Azure Women's Hackathon 2022</h3>
+  
+</div> 
+
+<!-- IDEA SUBMISSION-->
+
+##  Prototype Submission Round
+
+Click [here](https://drive.google.com/file/d/1mqT9LdXlJR6pU4OlNMMxpSROHPUAI2UD/view?usp=sharing) to view demo video.
+
 ##  Tech Architecture
 ![azure_Tarch-1](https://user-images.githubusercontent.com/72341529/172136926-6f1367aa-b531-4741-ad03-ebc4216cb043.png)
 
