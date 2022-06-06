@@ -32,7 +32,7 @@
   - When volunteers report a suspected missing person, we verify and generate a Face ID the same way. We then use Azure's Find Similar API to identify a potential match with our database of missing person Face IDs.
   - If a match is found we will contact you.
 
-###  Built With
+##  Built With
 To achieve our goal of finding missing people, we make use of the following tools and languages,
 <p align="left">
 <a  href="https://getbootstrap.com"  target="_blank"><img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  alt="bootstrap"  width="40"  height="40"/> </a>
@@ -46,4 +46,7 @@ To achieve our goal of finding missing people, we make use of the following tool
 <a  href="https://git-scm.com/"  target="_blank"> <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git"  width="40"  height="40"/> </a>
 <a  href="https://heroku.com"  target="_blank"> <img  src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"  alt="heroku"  width="40"  height="40"/> </a>
 
+  ##  Business Logic
+  ![azure_barch-1](https://user-images.githubusercontent.com/72341529/172136505-9c3da13d-a93e-446d-b8b0-8725d1bbda85.png)
 
+  
